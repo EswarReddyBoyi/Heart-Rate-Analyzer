@@ -35,19 +35,19 @@ A smart health monitoring system that reads heart rate data from a BLE-enabled s
 git clone https://github.com/your-username/heart-rate-analyzer.git
 cd heart-rate-analyzer
 ````
-###2. Backend Setup (/server)
+### 2. Backend Setup (/server)
 ```bash
 cd server
 npm install
 node server.js
 ````
-###3. Frontend Setup (/client)
+### 3. Frontend Setup (/client)
 ```bash
 cd client
 npm install
 npm start
 ````
-###4. BLE Client (Python)
+### 4. BLE Client (Python)
 ```bash
 cd client
 pip install bleak requests
