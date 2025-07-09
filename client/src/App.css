@@ -1,0 +1,53 @@
+/* App.css */
+body {
+  background-image: url('../public/background.jpg');
+  background-size: 50%; /* Cover the entire background */
+  background-position: bottom; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating the image */
+  height: 100vh; /* Set height to full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+}
+
+.card {
+  padding: 20px; /* Padding inside the card */
+  text-align: center; /* Center text */
+}
+
+h1 {
+  margin-bottom: 20px; /* Spacing below the title */
+}
+
+input {
+  margin-bottom: 10px; /* Spacing below the input */
+  padding: 10px; /* Input padding */
+  border: 1px solid #ccc; /* Border style */
+  border-radius: 4px; /* Rounded corners */
+  width: 200px; /* Fixed input width */
+}
+
+button {
+  padding: 10px 20px; /* Button padding */
+  border: none; /* No border */
+  border-radius: 4px; /* Rounded corners */
+  background-color: #007BFF; /* Button color */
+  color: white; /* Text color */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker button color on hover */
+}
+
+.footer {
+  background-color: #f1f1f1; /* Background color for footer */
+  text-align: bottom; /* Center the text */
+  padding: 10px; /* Padding for footer */
+}
