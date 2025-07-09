@@ -72,7 +72,7 @@ EMD-BILSTM
 
 🧑‍💻 Contributors
 
-Group Members: [Likith Sai E, Uday Karthikeya N, Eswar Reddy B, NLS Karthikeya, Jayanth N, Darshan Sagar]
+Group Members: [Likith Sai E, Uday Karthikeya N, Eswar Reddy B, NLS Karthikeya, Jayanth N, Darshan Sagar, VaraPrasad K]
 
 📎 License
 This project is for academic use only. Not for medical or commercial deployment.
