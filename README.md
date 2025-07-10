@@ -1,6 +1,8 @@
-# 💓 Heart Rate Analyzer using BLE and ML Integration
+# 🫀 Heart Rate Analyzer using BLE and ML Integration
 
 A smart health monitoring system that reads heart rate data from a BLE-enabled sensor (e.g., DFRobot Beetle ESP32-C3), sends it to a Node.js + MongoDB backend for real-time analysis, and optionally alerts emergency contacts via email or call when abnormal rates are detected. The system uses a dataset and ML logic for classification.
+
+<img src="./Hardware/heart_rate_monitor_circuit_diagram.png" width="500"/>
 
 ---
 
