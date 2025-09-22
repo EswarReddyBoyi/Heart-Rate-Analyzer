@@ -34,7 +34,7 @@ A smart health monitoring system that reads heart rate data from a BLE-enabled s
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/heart-rate-analyzer.git
+git clone https://github.com/EswarReddyBoyi/heart-rate-analyzer.git
 cd heart-rate-analyzer
 ````
 ### 2. Backend Setup (/server)
